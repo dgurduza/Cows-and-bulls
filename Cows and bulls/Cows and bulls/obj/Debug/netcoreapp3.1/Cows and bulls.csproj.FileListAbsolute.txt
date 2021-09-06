@@ -1,0 +1,13 @@
+E:\проги проба\Cows and bulls\Cows and bulls\bin\Debug\netcoreapp3.1\Cows and bulls.exe
+E:\проги проба\Cows and bulls\Cows and bulls\bin\Debug\netcoreapp3.1\Cows and bulls.deps.json
+E:\проги проба\Cows and bulls\Cows and bulls\bin\Debug\netcoreapp3.1\Cows and bulls.runtimeconfig.json
+E:\проги проба\Cows and bulls\Cows and bulls\bin\Debug\netcoreapp3.1\Cows and bulls.runtimeconfig.dev.json
+E:\проги проба\Cows and bulls\Cows and bulls\bin\Debug\netcoreapp3.1\Cows and bulls.dll
+E:\проги проба\Cows and bulls\Cows and bulls\bin\Debug\netcoreapp3.1\Cows and bulls.pdb
+E:\проги проба\Cows and bulls\Cows and bulls\obj\Debug\netcoreapp3.1\Cows and bulls.csprojAssemblyReference.cache
+E:\проги проба\Cows and bulls\Cows and bulls\obj\Debug\netcoreapp3.1\Cows and bulls.AssemblyInfoInputs.cache
+E:\проги проба\Cows and bulls\Cows and bulls\obj\Debug\netcoreapp3.1\Cows and bulls.AssemblyInfo.cs
+E:\проги проба\Cows and bulls\Cows and bulls\obj\Debug\netcoreapp3.1\Cows and bulls.csproj.CoreCompileInputs.cache
+E:\проги проба\Cows and bulls\Cows and bulls\obj\Debug\netcoreapp3.1\Cows and bulls.dll
+E:\проги проба\Cows and bulls\Cows and bulls\obj\Debug\netcoreapp3.1\Cows and bulls.pdb
+E:\проги проба\Cows and bulls\Cows and bulls\obj\Debug\netcoreapp3.1\Cows and bulls.genruntimeconfig.cache
